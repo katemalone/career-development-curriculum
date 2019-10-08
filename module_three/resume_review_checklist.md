@@ -4,12 +4,12 @@
 - [ ] Heading/Contact, Summary, Skills, Projects, Experience/Education
 
 ## Heading & Contact Info
-- [ ] Name: stand outs, easy to read
-- [ ] Title: "software developer/front end engineer/back end engineer," stand outs, easy to read, comparable in size to name 
-- [ ] Email address
-- [ ] Phone number
-- [ ] GitHub link 
-- [ ] LinkedIn link 
+- [x] Name: stand outs, easy to read
+- [x] Title: "software developer/front end engineer/back end engineer," stand outs, easy to read, comparable in size to name 
+- [x] Email address
+- [x] Phone number
+- [x] GitHub link 
+- [x] LinkedIn link 
 - [ ] Personal website (optional)
 
 ## Summary/Profile
